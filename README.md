@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I use GitHub all the time for my projects in various languages.
 I am skilled in:
 - HTML/CSS/JavaScript
-- C# Console Apps
+- C#
 - Unity
 - Swift
 - Python
