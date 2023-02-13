@@ -25,6 +25,6 @@ I am skilled in:
 
 I have a Swift app published on the app store and google play store: https://play.google.com/store/apps/details?id=com.arhanbusam.simpleexercisetimer&hl=en_AU&gl=US, https://apps.apple.com/us/app/simple-exercise-timer/id1455796777
 
-🔭 I’m currently working on creating another Flutter app.
+🔭 I’m currently working on creating personal/private projects 
 
 My main code editor is VS Code.
