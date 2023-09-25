@@ -22,9 +22,7 @@ I am skilled in:
 - Unity
 - Swift
 - Python
-
-I also have a Swift app with the OpenAI API on the App Store: https://apps.apple.com/au/app/starstruck-message-anyone/id6446234281
-
+  
 I have a Flutter app published on the App Store and Google Play Store: https://play.google.com/store/apps/details?id=com.arhanbusam.simpleexercisetimer&hl=en_AU&gl=US, https://apps.apple.com/us/app/simple-exercise-timer/id1455796777
 
 🔭 I’m currently working on creating personal/private projects 
