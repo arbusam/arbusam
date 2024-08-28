@@ -23,8 +23,6 @@ I am skilled in:
 - Swift
 - Python
   
-I have a Flutter app published on the App Store and Google Play Store: https://play.google.com/store/apps/details?id=com.arhanbusam.simpleexercisetimer&hl=en_AU&gl=US, https://apps.apple.com/us/app/simple-exercise-timer/id1455796777
-
 🔭 I’m currently working on creating personal/private projects 
 
 My main code editor is VS Code.
