@@ -22,6 +22,13 @@ I am skilled in:
 - Unity
 - Swift
 - Python
+- Dart/Flutter
+
+I know some:
+- Typescript
+- C++
+- Visual Basic
+- Java
   
 🔭 I’m currently working on creating personal/private projects 
 
