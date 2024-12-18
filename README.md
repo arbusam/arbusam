@@ -29,7 +29,14 @@ I know some:
 - C++
 - Visual Basic
 - Java
-  
-🔭 I’m currently working on creating personal/private projects 
+
+Here's a list of all my live projects that haven't been killed yet:
+| URL | Repo |
+|----------|----------|
+| [Product Rater](https://product-rater.arhan.tech/) | [Repo](https://github.com/arbusam/product-rater) |
+| [Brute Force Calculator](https://brute-force.arhan.tech/) | [Repo](https://github.com/arbusam/Brute-Force-Calculator) |
+| [GitHub Rewind](https://github-rewind.arhan.tech/) | [Repo](https://github.com/arbusam/github-rewind/) |
+| [Rhythm Game](https://rhythm.arhan.tech/) | [Repo](https://github.com/arbusam/rhythm-game/) |
+| [Ping](https://ping.arhan.tech) | [Repo](https://github.com/arbusam/Ping/) |
 
 My main code editor is VS Code.
