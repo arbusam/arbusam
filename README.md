@@ -26,6 +26,7 @@ I am skilled in:
 I know some:
 - HTML/CSS/JavaScript
 - Typescript
+- Next.js
 - C++
 - Visual Basic
 - Java
