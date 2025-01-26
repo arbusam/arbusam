@@ -34,6 +34,8 @@ I know some:
 Here's a list of all my live projects:
 | URL | Repo |
 |----------|----------|
+| [Sorting Algorithms](https://sorting.arhan.tech/) | [Repo](https://github.com/arbusam/sorting-algorithms/) |
+| [Shrinky](https://shrinky.arhan.tech/) | [Repo](https://github.com/arbusam/shrinky/) |
 | [Brute Force Calculator](https://brute-force.arhan.tech/) | [Repo](https://github.com/arbusam/Brute-Force-Calculator) |
 | [GitHub Rewind](https://github-rewind.arhan.tech/) | [Repo](https://github.com/arbusam/github-rewind/) |
 | [Rhythm Game](https://rhythm.arhan.tech/) | [Repo](https://github.com/arbusam/rhythm-game/) |
