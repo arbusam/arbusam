@@ -22,11 +22,11 @@ I am skilled in:
 - Swift
 - Python
 - Dart/Flutter
-
-I know some:
 - HTML/CSS/JavaScript
 - Typescript
 - Next.js
+
+I know some:
 - C++
 - Visual Basic
 - Java
@@ -36,6 +36,7 @@ Here's a list of all my live projects:
 |----------|----------|
 | [Sorting Algorithms](https://sorting.arhan.tech/) | [Repo](https://github.com/arbusam/sorting-algorithms/) |
 | [Shrinky](https://shrinky.arhan.tech/) | [Repo](https://github.com/arbusam/shrinky/) |
+| [Product Rater](https://product-rater.arhan.tech/) | [Repo](https://github.com/arbusam/product-rater) |
 | [Brute Force Calculator](https://brute-force.arhan.tech/) | [Repo](https://github.com/arbusam/Brute-Force-Calculator) |
 | [GitHub Rewind](https://github-rewind.arhan.tech/) | [Repo](https://github.com/arbusam/github-rewind/) |
 | [Rhythm Game](https://rhythm.arhan.tech/) | [Repo](https://github.com/arbusam/rhythm-game/) |
