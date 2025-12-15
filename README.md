@@ -24,6 +24,7 @@ I am skilled in:
 - Dart/Flutter
 - HTML/CSS/JavaScript
 - Typescript
+- React
 - Next.js
 
 I know some:
@@ -42,5 +43,3 @@ Here's a list of all my live projects:
 | [Rhythm Game](https://rhythm.arhan.tech/) | [Repo](https://github.com/arbusam/rhythm-game/) |
 | [Random Swap](https://github.com/arbusam/Random-Swap/releases) | [Repo](https://github.com/arbusam/Random-Swap/) |
 | [Ping](https://ping.arhan.tech) | [Repo](https://github.com/arbusam/Ping/) |
-
-My main code editor is VS Code.
